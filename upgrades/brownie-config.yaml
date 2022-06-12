@@ -17,7 +17,7 @@ networks:
   development:
     verify: False
   rinkeby:
-    verify: True
+    verify: False
   ganache:
     verify: False
 wallets:
